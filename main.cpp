@@ -3,7 +3,7 @@
  
 int main(int argc, char *argv[ ]) 
 {
-QApplication app(argc, argv);
+QApplication arp(argc, argv);
  
 QPushButton button("Hello, World!");
 button.resize(200, 60);
